@@ -1,15 +1,15 @@
 # Go Koans
 
+## Install Golang 
+
+[Install](https://golang.org/doc/install)
+
 ## Cloning the repo
 
 `mkdir -p $GOPATH/src/github.com/sujithps/`
 
 `git clone git@github.com:sujithps/go-koans.git`
 ## Native Usage
-
-If you prefer to do things "natively" you may download, install, and configure
-the suite of tools provided by the binary or source distribution of your
-choice from the [Downloads page](https://golang.org/dl/).
 
 1. Run `go test`.
 1. Make the failing tests pass, by replacing these types of `__variables__` with real values.

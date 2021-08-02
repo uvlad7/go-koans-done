@@ -3,6 +3,7 @@
 ## Cloning the repo
 
 `mkdir -p $GOPATH/src/github.com/sujithps/`
+
 `git clone git@github.com:sujithps/go-koans.git`
 ## Native Usage
 
